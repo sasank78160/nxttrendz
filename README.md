@@ -1,4 +1,4 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+
 Live : https://Econxttrendzsai.ccbp.tech Username : rahul | Password : rahul@2021
 
 ### Refer to the video below:
